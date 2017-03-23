@@ -43,7 +43,7 @@ It was difficult to gain a offer. I delivered over 1000 individual resumes via n
 With a internship experience, it was a litte bit smoother to apply for a full-time job in the next fall recruitment.  
 
 The road to FE is very long, particularly when you are in it. But I will keep going, and live a meaningful life.  
-##part 3: github
+## part 3: github
 Learn more from github, the land of open source.  
 
 (by aierwa, 2017-3-23)
